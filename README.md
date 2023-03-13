@@ -6,7 +6,7 @@ I 💜 **Frontend**.
 Hello! I'm frontend developer, and I love it!
 I'm studie at __The Rolling Scopes School__
 
-### Just look at [my CV](https://alexeykuptsov.work/)!
+### Just take a look at [my CV](https://alexeykuptsov.work/)!
 
 ## My Skills
 
