@@ -4,7 +4,10 @@
 I 💜 **Frontend**.
 
 Hello! I'm frontend developer, and I love it!
+
 I'm studie at __The Rolling Scopes School__
+
+_Learnind **Angular**..._
 
 ### Just take a look at [my CV](https://alexeykuptsov.work/)!
 
